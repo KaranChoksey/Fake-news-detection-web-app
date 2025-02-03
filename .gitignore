@@ -1,0 +1,7 @@
+"node_modules" 
+__pycache__/       # Ignore Python cache files
+*.log              # Ignore all files ending in .log
+.DS_Store          # Ignore macOS folder metadata files
+config.ini         # Ignore a specific file
+my_secret_data/   # Ignore a directory and its contents
+*.pkl            # Ignore pickle files (often used for machine learning models)
